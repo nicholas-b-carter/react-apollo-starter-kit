@@ -68,7 +68,7 @@
     "redux-thunk": "^2.1.0",
     "rollbar": "^0.6.2",
     "webpack": "^1.13.2",
-    "webpack-dev-server": "^1.16.1",
+    "webpack-dev-server": "^2.2.0",
     "webpack-manifest-plugin": "^1.0.1"
   },
   "devDependencies": {
@@ -89,6 +89,6 @@
     "foreman": "^2.0.0",
     "nodemon": "^1.9.2",
     "offline-plugin": "^4.5.3",
-    "webpack-dev-server": "^1.14.1"
+    "webpack-dev-server": "^2.2.0"
   }
 }
